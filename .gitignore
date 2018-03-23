@@ -1,0 +1,5 @@
+target/
+.idea/
+extent_reports/
+cigniti_reports/
+debug.log

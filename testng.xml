@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="POC-Selenium-Demo">
+    <parameter name="suiteExecuted" value="Regression"/>
+    <parameter name="executionType" value="Sequential"/>
+
+
+    <!-- WEB WINDOWS LOCAL -->
+    <test name="CHROME on WINDOWS LOCAL">
+        <parameter name="automationName" value="Browser-Tests"/>
+        <parameter name="browser" value="chrome"/>
+        <parameter name="browserVersion" value="63"/>
+        <parameter name="platformName" value="Windows 7"/>
+        <parameter name="environment" value="local"/>
+        <packages>
+            <package name="com.tdd.tests"/>
+        </packages>
+    </test>
+
+</suite>

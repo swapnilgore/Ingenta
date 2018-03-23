@@ -1,0 +1,43 @@
+{
+  "username": "david",
+  "password": "tyer",
+  "editBookingDetails": {
+    "bookingID": "26341",
+    "newBookingReference": "Scenario 1 Date : "
+  },
+  "companySearchKeyword": "Elementum LLP",
+  "contactFirstName": "Anna",
+  "newBookingDetails": {
+    "media": "Brides Magazine",
+    "section": "Body",
+    "adSize": "Full Page",
+    "newBookingReference": "Today is : "
+  },
+  "inventorydetails": {
+    "adtype": "Display",
+    "mediaGroup": "Newspaper Titles",
+    "medialist1": "Daily Gazette",
+    "medialist2": "Daily Citizen",
+    "Sectionlist": "News",
+    "placement": "News Early Right (after pg5)",
+    "period": "Two Weeks",
+    "ADsize": "Half Page Horizontal",
+    "eventadtype": "Event",
+    "eventmediagroup": "Events & Awards",
+    "mediahome": "Home & Gardens Show",
+    "homesection": "Homes Hall",
+    "homeplacement": "Homes - Other position",
+    "homeperiod": "Six Months",
+    "homeADsize": "Event Booth Double",
+    "inventorydate": "InvResultCol Placement",
+    "webadtype": "Web (Residency)",
+    "webmediagroup": "Digital Media",
+    "househome": "www.houseandgarden.com",
+    "bridgehome": "www.bridesmagazine.com",
+    "runsection": "Run of Site",
+    "runplacement": "Run of Site",
+    "webperiod": "One Month",
+    "webADsize": "Top Banner",
+    "torange": "9/7/2019"
+  }
+}
